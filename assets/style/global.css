@@ -25,6 +25,7 @@
 body{
     color: var(--text-color-secondary);
     background-color: var(--background-color);
+    margin: auto;
 }
 a{
     text-decoration: none;

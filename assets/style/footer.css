@@ -1,0 +1,11 @@
+
+footer > div {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px;
+
+}
+div.termo > span{
+    margin-left: 30px;
+    
+}
